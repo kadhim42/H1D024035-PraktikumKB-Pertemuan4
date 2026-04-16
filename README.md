@@ -18,11 +18,6 @@ Menangani kondisi jika tidak ada kerusakan yang cocok
 Cara Kerja
 User menjawab pertanyaan terkait gejala. Sistem kemudian mencocokkan gejala tersebut dengan knowledge base menggunakan metode inferensi (all()), dan menampilkan kerusakan yang sesuai beserta solusi.
 
-Cara Menjalankan
-Pastikan Python sudah terinstall
-
-Jalankan file program:
-
 Teknologi
 Python
 Tkinter (GUI)
